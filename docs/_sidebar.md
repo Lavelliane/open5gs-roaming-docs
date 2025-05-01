@@ -1,5 +1,6 @@
 - [Home](/)
-- [Roaming Setup](/roaming-setup/architecture.md)
+- [Roaming Setup](/roaming-setup/README.md)
+  - [Architecture](/roaming-setup/architecture.md)
   - [Installation](/roaming-setup/installation.md)
   - [Configuration](/roaming-setup/configuration.md)
   - [Setup](/roaming-setup/setup.md)

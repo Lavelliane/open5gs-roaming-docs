@@ -13,6 +13,8 @@ The roaming setup consists of:
 
 ## Network Components
 
+![Network Components Diagram](/images/open5gs_roaming.png)
+
 ### Home Network Components (MCC-001, MNC-01)
 
 The Home Network consists of the following components:
