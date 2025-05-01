@@ -154,4 +154,4 @@ docker-compose down -v
 
 ## Next Steps
 
-After successfully running the system, proceed to the [Testing and Verification](testing.html) page to learn about testing procedures and verifying the roaming functionality.
+After successfully running the system, proceed to the [Testing and Verification](/roaming-setup/testing) page to learn about testing procedures and verifying the roaming functionality.

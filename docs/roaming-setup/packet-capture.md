@@ -153,4 +153,4 @@ When analyzing the packet captures, focus on these key interfaces:
 
 ## Next Steps
 
-After learning about packet capture, proceed to the [Troubleshooting](troubleshooting.html) page for tips on resolving common issues in the Open5GS roaming environment.
+After learning about packet capture, proceed to the [Troubleshooting](/roaming-setup/troubleshooting) page for tips on resolving common issues in the Open5GS roaming environment.

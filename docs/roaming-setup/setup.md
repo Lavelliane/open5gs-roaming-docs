@@ -151,4 +151,4 @@ When asked about non-root users capturing packets, select "Yes" to allow it.
 
 ## Next Steps
 
-After completing the environment setup, proceed to the [System Architecture](architecture.html) page to understand the components of the Open5GS roaming setup.
+After completing the environment setup, proceed to the [System Architecture](/roaming-setup/architecture) page to understand the components of the Open5GS roaming setup.

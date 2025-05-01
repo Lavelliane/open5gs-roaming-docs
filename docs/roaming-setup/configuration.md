@@ -299,4 +299,4 @@ The Docker images use several environment variables defined at build time:
 
 ## Next Steps
 
-After understanding the configuration, proceed to the [Running the System](running.html) page to start the Open5GS roaming environment.
+After understanding the configuration, proceed to the [Running the System](/roaming-setup/running) page to start the Open5GS roaming environment.

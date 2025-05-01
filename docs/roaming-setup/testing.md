@@ -167,4 +167,4 @@ This should show the database status, indicating that it's working correctly.
 
 ## Next Steps
 
-After successfully testing the system, proceed to the [Packet Capture](packet-capture.html) page to learn about capturing and analyzing network traffic in the Open5GS roaming environment.
+After successfully testing the system, proceed to the [Packet Capture](/roaming-setup/packet-capture) page to learn about capturing and analyzing network traffic in the Open5GS roaming environment.

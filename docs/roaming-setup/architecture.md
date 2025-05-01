@@ -99,4 +99,4 @@ The PacketRusher simulator is configured with the following UE parameters:
 
 ## Next Steps
 
-Proceed to the [Installation](installation.html) page to set up the Open5GS roaming environment.
+Proceed to the [Installation](/roaming-setup/installation.md) page to set up the Open5GS roaming environment.

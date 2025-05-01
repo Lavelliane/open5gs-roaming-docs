@@ -4,7 +4,7 @@ This section guides you through installing the Open5GS roaming environment.
 
 ## Prerequisites
 
-Ensure you have completed the [Environment Setup](setup.html) and have:
+Ensure you have completed the [Environment Setup](/roaming-setup/setup.md) and have:
 
 - Ubuntu 22.04 with all updates
 - Docker and Docker Compose installed
@@ -108,4 +108,4 @@ The following Docker volumes are created to persist data:
 
 ## Next Steps
 
-After successfully building all the required Docker images, proceed to the [Configuration](configuration.html) page to configure the Open5GS roaming environment.
+After successfully building all the required Docker images, proceed to the [Configuration](/roaming-setup/configuration) page to configure the Open5GS roaming environment.
