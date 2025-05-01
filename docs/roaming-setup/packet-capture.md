@@ -151,6 +151,14 @@ When analyzing the packet captures, focus on these key interfaces:
    - Look for SEPP message exchange (N32-c, N32-f)
    - Security parameters exchange, JOSE-protected messages
 
+### Sample Wireshark Data Screenshot
+
+To better understand the packet flow and the types of messages exchanged in the Open5GS roaming setup, you can capture and analyze the network traffic using Wireshark. Below is a sample screenshot of Wireshark displaying captured data:
+
+![Sample Wireshark Data](/images/packet_capture.png)
+
+In this screenshot, you can observe various protocol messages such as NAS, NGAP, and GTP-U. These messages are crucial for understanding the communication between different network components. Pay attention to the message types and their sequence to gain insights into the network operations.
+
 ## Next Steps
 
 After learning about packet capture, proceed to the [Troubleshooting](/roaming-setup/troubleshooting) page for tips on resolving common issues in the Open5GS roaming environment.
